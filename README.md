@@ -1,6 +1,6 @@
 # compare-files-python
 This script compares values in specified columns between two CSV input files and writes matching lines to an output file.
-
+Output file will contain the full line of the Input file 2 if the ID is found in Input file 1
 
 1. Install the necessary dependencies:
 Make sure you have Python installed on your system.
